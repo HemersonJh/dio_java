@@ -1,2 +1,2 @@
 # dio_java
-Curso Java
+Repositorio de armazenamento do conteudo do curso de Java Basico
